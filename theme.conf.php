@@ -10,7 +10,7 @@ define('theme_author', "cwaniak | HeadShotownia.pl");
 define('theme_version', "1.3");
 
 // Set the link of the theme here
-define('theme_link', "Brak");
+define('theme_link', "https://github.com/masterofencode/SourceBasn-THEME");
 
 // Set the screenshot filename for your theme (must be inside your theme folder) 
 // Must be:  250px wide  X 170px High
